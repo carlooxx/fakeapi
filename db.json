@@ -1,4 +1,4 @@
-{{
+{
     "name":"Molimo odaberite predmet žalbe", 
     "value": 0,
 },
@@ -41,4 +41,4 @@
 {
     "name":"Prigovor", 
     "value": 10,
-},}
+}
