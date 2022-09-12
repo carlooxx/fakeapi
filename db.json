@@ -1,44 +1,46 @@
-{{
-    "name":"Molimo odaberite predmet žalbe", 
-    "value": 0,
-},
-{
-    "name":"Sport", 
-    "value": 1,
-},
-{
-    "name":"Live Kladenje", 
-    "value": 2,
-},
-{
-    "name":"Uplata/Isplata", 
-    "value": 3,
-},
-{
-    "name":"Provjera Listica", 
-    "value": 4,
-},
-{
-    "name":"Online Casino", 
-    "value": 5,
-},
-{
-    "name":"Promocije", 
-    "value": 6,
-},
-{
-    "name":"Loto", 
-    "value": 7,
-},
-{
-    "name":"Virtualne Igre", 
-    "value": 8,
-},
-{
-    "name":"GDPR", 
-    "value": 9,
-},
-{
-    "name":"Prigovor", 
-    "value": 10,
-},}
+[
+    {
+        "name": "Molimo odaberite predmet žalbe",
+        "value": 0
+    },
+    {
+        "name": "Sport",
+        "value": 1
+    },
+    {
+        "name": "Live Kladenje",
+        "value": 2
+    },
+    {
+        "name": "Uplata/Isplata",
+        "value": 3
+    },
+    {
+        "name": "Provjera Listica",
+        "value": 4
+    },
+    {
+        "name": "Online Casino",
+        "value": 5
+    },
+    {
+        "name": "Promocije",
+        "value": 6
+    },
+    {
+        "name": "Loto",
+        "value": 7
+    },
+    {
+        "name": "Virtualne Igre",
+        "value": 8
+    },
+    {
+        "name": "GDPR",
+        "value": 9
+    },
+    {
+        "name": "Prigovor",
+        "value": 10
+    }
+]
